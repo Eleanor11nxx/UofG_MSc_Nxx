@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3284C962-9098-E767-188D-7A4F216E08EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRTK.Samples.Farm.Scripts.Runtime", "VRTK.Samples.Farm.Scripts.Runtime.csproj", "{767DAB05-9B5C-C2D6-5F7F-6094D751036C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRTK.Tilia.Package.Importer.Editor", "VRTK.Tilia.Package.Importer.Editor.csproj", "{8FB1CF7D-4347-6559-D028-3B554163CFEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3284C962-9098-E767-188D-7A4F216E08EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3284C962-9098-E767-188D-7A4F216E08EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3284C962-9098-E767-188D-7A4F216E08EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3284C962-9098-E767-188D-7A4F216E08EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767DAB05-9B5C-C2D6-5F7F-6094D751036C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767DAB05-9B5C-C2D6-5F7F-6094D751036C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767DAB05-9B5C-C2D6-5F7F-6094D751036C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767DAB05-9B5C-C2D6-5F7F-6094D751036C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB1CF7D-4347-6559-D028-3B554163CFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB1CF7D-4347-6559-D028-3B554163CFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB1CF7D-4347-6559-D028-3B554163CFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB1CF7D-4347-6559-D028-3B554163CFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
